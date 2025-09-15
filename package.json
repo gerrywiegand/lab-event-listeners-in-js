@@ -20,5 +20,8 @@
     "setupFilesAfterEnv": [
       "<rootDir>/jest.setup.js"
     ]
+  },
+  "dependencies": {
+    "eslint": "^9.35.0"
   }
 }
